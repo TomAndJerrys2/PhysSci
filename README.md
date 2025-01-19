@@ -1,2 +1,2 @@
-# PhysSci
+# CoffeeSimula
 A Physics engine
